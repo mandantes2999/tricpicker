@@ -1,8 +1,7 @@
 h1{
-  color: #43c146;
+  color: #24b714;
 }
-
-.topnav {
+*.topnav {
   overflow: hidden;
   background-color: #e9e9e9;
 }
@@ -56,10 +55,16 @@ h1{
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 35px;
 }
 
 #myDIV a: hover {
   background-color: #ddd;
   color: black;
+}
+.content
+{
+  height: 760px;
+  width: 100%;
+  background-color: black;
 }
